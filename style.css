@@ -11,3 +11,10 @@ section {
     padding: 15px;
     border-radius: 8px;
 }
+
+img {
+    max-width: 100%;
+    height: auto;
+    border: 3px solid #2c3e50;
+    border-radius: 5px;
+}
